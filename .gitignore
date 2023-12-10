@@ -167,4 +167,8 @@ gradle-app.setting
 # Java heap dump
 *.hprof
 
+# Ignore output
+separatedFilesOption/output/
+xmlFilesOption/output/
+
 # End of https://www.toptal.com/developers/gitignore/api/intellij,kotlin,gradle
